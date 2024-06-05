@@ -595,3 +595,9 @@ h6,
     height: 360px;
     object-fit: cover; /* Ensures the image covers the entire area */
   }
+
+  .sef-img{
+    width: 360px;
+    height: 360px;
+    border-radius: 15%;
+  }
